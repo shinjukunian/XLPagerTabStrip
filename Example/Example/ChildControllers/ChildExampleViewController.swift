@@ -23,6 +23,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 import XLPagerTabStrip
 
 class ChildExampleViewController: UIViewController, IndicatorInfoProvider {
